@@ -1,0 +1,14 @@
+GET http://localhost:8080/salas
+
+###
+
+GET http://localhost:8080/salas
+
+### 
+
+POST http://localhost:8080/salas
+Content-type: application/json
+
+{
+    "nome": "Ricardo"
+}
